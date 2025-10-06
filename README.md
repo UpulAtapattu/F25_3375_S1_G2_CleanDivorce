@@ -5,8 +5,8 @@ This is a UI/UX Project aimed at helping www.thecleandivorce.com to create their
 
 ## Team Members
 
-**Full Name**	                   **Student Number**
+**Full Name** - **Student Number**
 
-Atapattu, Upul M [Team Lead]      300392188
+Atapattu, Upul M [Team Lead]      - 300392188
 
-Arachchi Mudiyanselage, Vidarshan	300392818
+Arachchi Mudiyanselage, Vidarshan	- 300392818
