@@ -32,4 +32,6 @@ Furthermore, this app can be also augmented by guiding user to use useful tools 
 The consultancy sessions booking can also be baked into the journey as suggestions as the user moves through different chapters, which is traditionally presented in a separate directory (like the webpage services section)."
 
 ### Demonstation of the prototype
-https://www.figma.com/proto/M06M6gI8eB1UrveAqz7VKu/F25_3375_S1_G2_CleanDivorce?node-id=0-1&p=f&t=3PVbAQowsVawIgVc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=163%3A777
+Link: https://www.figma.com/proto/M06M6gI8eB1UrveAqz7VKu/F25_3375_S1_G2_CleanDivorce?node-id=0-1&p=f&t=3PVbAQowsVawIgVc-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=163%3A777 or scan the below QR code
+
+<img width="100" height="100" alt="url_qrcodecreator com_14_11_28" src="https://github.com/user-attachments/assets/0d7ba9c7-84f6-45b0-ab4f-54f12edd1070" />
